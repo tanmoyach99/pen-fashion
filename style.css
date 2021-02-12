@@ -1,0 +1,64 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+nav img{
+    width: 400px;
+}
+.buy{
+    background-color: forestgreen;
+}
+.image-smile img{
+    width: 100%;
+}
+span{
+    color: gold;
+}
+.image-smile h1{
+    font-size: xx-large;
+    
+}
+.jacket img{
+    width: 70%;
+    height: auto;
+    padding: 40px;
+    
+   
+}
+.card-border{
+    border: none;
+    border-radius: 2em;
+}
+.image-shadow{
+    height: 300px;
+}
+.footer-border{
+    border: none;
+}
+.price{
+    color: limegreen;
+}
+.service-info{
+    width: 100px;
+    
+}
+.info-details{
+    border-radius: 20px;
+
+    padding: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.last-section{
+    padding: 100px;
+    border-radius: 10px;
+    background-color: darkorange;
+    box-shadow: inset 152px -202px 202px -102px palevioletred;
+    color: papayawhip;
+}
+.contact-image{
+    width: 60px;
+    margin: 20px 30px;
+}
+
